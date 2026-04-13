@@ -182,3 +182,23 @@ cython_debug/
 
 # macOS
 .DS_Store
+.AppleDouble
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Microsoft Office (lock/temp files while a document is open)
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# JetBrains / IntelliJ
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
